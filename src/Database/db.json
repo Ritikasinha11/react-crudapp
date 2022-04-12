@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Ritika sinha",
+      "username": "Ritikaaajjj",
+      "email": "abc@gmail.com",
+      "phone": "00088888",
+      "id": 1
+    },
+    {
+      "name": "Madhawi kumari",
+      "username": "madhawiiii",
+      "email": "xyz@gmail.com",
+      "phone": "09999998888",
+      "id": 2
+    },
+    {
+      "name": "virat kholi",
+      "username": "viratanu",
+      "email": "vr@gmail.com",
+      "phone": "888888888",
+      "id": 3
+    }
+  ]
+}
